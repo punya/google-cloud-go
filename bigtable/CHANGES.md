@@ -1,5 +1,18 @@
 # Changes
 
+## [1.35.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.34.0...bigtable/v1.35.0) (2025-01-15)
+
+
+### Features
+
+* **bigtable:** Hot backups ([#11215](https://github.com/googleapis/google-cloud-go/issues/11215)) ([238ac1c](https://github.com/googleapis/google-cloud-go/commit/238ac1c37978b7ccdd72af453416308c511dd493))
+
+
+### Bug Fixes
+
+* **bigtable:** Do not retry conditional mutate ([#11437](https://github.com/googleapis/google-cloud-go/issues/11437)) ([ce8c9b1](https://github.com/googleapis/google-cloud-go/commit/ce8c9b1e5523646175b9650265928386143259fd))
+* **bigtable:** Retry correct mutations ([#11388](https://github.com/googleapis/google-cloud-go/issues/11388)) ([ca2c4e3](https://github.com/googleapis/google-cloud-go/commit/ca2c4e334f07e7f8f0e276db922122d47262dabf))
+
 ## [1.34.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.33.0...bigtable/v1.34.0) (2025-01-02)
 
 
