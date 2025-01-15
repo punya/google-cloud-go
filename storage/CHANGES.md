@@ -1,6 +1,13 @@
 # Changes
 
 
+## [1.50.1](https://github.com/googleapis/google-cloud-go/compare/storage/v1.50.0...storage/v1.50.1) (2025-01-15)
+
+
+### Bug Fixes
+
+* **storage:** Return sentinel ErrObjectNotExist for copy and compose ([#11369](https://github.com/googleapis/google-cloud-go/issues/11369)) ([74d0c10](https://github.com/googleapis/google-cloud-go/commit/74d0c1096f897ca3c15646f3049ea540bed0a6a0)), refs [#10760](https://github.com/googleapis/google-cloud-go/issues/10760)
+
 ## [1.50.0](https://github.com/googleapis/google-cloud-go/compare/storage/v1.49.0...storage/v1.50.0) (2025-01-09)
 
 
