@@ -1,5 +1,17 @@
 # Changes
 
+## [1.19.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.18.0...firestore/v1.19.0) (2025-01-15)
+
+
+### Features
+
+* **firestore:** Add UsesEmulator field to Client ([#11359](https://github.com/googleapis/google-cloud-go/issues/11359)) ([c2eccfe](https://github.com/googleapis/google-cloud-go/commit/c2eccfe941d8e3ccdd50bfacbc8d37b4058f92ab))
+
+
+### Bug Fixes
+
+* **firestore:** Handle nil in String() ([#11383](https://github.com/googleapis/google-cloud-go/issues/11383)) ([d3f81aa](https://github.com/googleapis/google-cloud-go/commit/d3f81aa1c989daec13ec6ff251854b7ecd981d81))
+
 ## [1.18.0](https://github.com/googleapis/google-cloud-go/compare/firestore/v1.17.0...firestore/v1.18.0) (2025-01-02)
 
 
